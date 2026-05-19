@@ -39,6 +39,3 @@ Contributions are welcome! If you'd like to add more questions, improve the UI, 
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-
-If you have any questions or suggestions, feel free to contact me at thdonadkar413@email.com.
